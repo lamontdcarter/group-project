@@ -25,6 +25,11 @@ main h2 {
 }
 
 /* Add Student Styles Below */
+.Lamont-style {
+    color: rgb(83, 241, 247);
+    background-color: rgb(121, 117, 117);
+    padding: 3px;
+}
 .jane-style {
     color: hotpink;
     background-color: black;
